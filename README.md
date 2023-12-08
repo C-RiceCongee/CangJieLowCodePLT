@@ -1,3 +1,3 @@
 # 仓颉LowCodeForm
 
-![](./public/favicon.png)
+<img src="./public/favicon.png" style="width: 300px;border-radius: 50%" />
